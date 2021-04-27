@@ -13,5 +13,5 @@ LH한국토지주택공사
 K-means, Spatial Zero Inflated Poisson, Spatial lag model<br>
 팀 내 본인 주 역할 : 전처리 및 시각화, Spatial lag model, ppt 템플릿 및 취합
 #### 공모전 사이트 
-공모전 개요 : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_002
+공모전 개요 : https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2012_002<br>
 분석 결과 : https://compas.lh.or.kr/subj/past/code-report?subjNo=SBJ_2012_002&teamNo=875
